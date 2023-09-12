@@ -14,4 +14,8 @@ or even normal
   }
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 I edited this file for testing the headers in markdown
